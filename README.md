@@ -1,6 +1,7 @@
 **Iris Recognition System**
 
 **Overview**
+
 	The Iris Recognition System is a biometric identification project that leverages the unique patterns of the human iris to accurately identify individuals. This system utilizes the CASIA-Iris-Syn database, known for its synthetic iris images that replicate the variations and complexities found in real-world scenarios. The project encompasses the entire process from image preprocessing, and feature extraction, to the final matching of iris codes.
 
 **Features**
